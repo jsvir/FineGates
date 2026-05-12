@@ -177,11 +177,13 @@ The implementation is compatible with:
 If you use FineGates in your research, please cite:
 
 ```bibtex
-@article{svirsky2026train,
+@inproceedings{
+  svirsky2026train,
   title={Train Less, Infer Faster: Efficient Model Finetuning and Compression via Structured Sparsity},
-  author={Svirsky, Jonathan and Refael, Yehonathan and Lindenbaum, Ofir},
-  journal={arXiv preprint arXiv:2602.09169},
-  year={2026}
+  author={Jonathan Svirsky and Yehonathan Refael and Ofir Lindenbaum},
+  booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
+  year={2026},
+  url={https://openreview.net/forum?id=jU4ERfrjpH}
 }
 ```
 
