@@ -1,7 +1,7 @@
 # FineGates  
 ## Train Less, Infer Faster: Efficient Model Finetuning and Compression via Structured Sparsity (AISTATS, 2026)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.09169-b31b1b.svg)](https://arxiv.org/abs/2602.09169)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.09169-b31b1b.svg)](https://arxiv.org/abs/2602.09169) [![openreview](https://img.shields.io/badge/OpenReview-Paper-1f6feb?logo=openreview)](https://openreview.net/pdf?id=jU4ERfrjpH)
 
 FineGates is a structured sparsification framework for efficient adaptation and compression of Large Language Models (LLMs).
 
